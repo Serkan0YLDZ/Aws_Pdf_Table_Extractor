@@ -1,0 +1,9 @@
+{
+  "name": "AWS PDF Table Extractor",
+  "description": "Spring Boot application for extracting tables from PDF files using AWS services",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]  
+}
